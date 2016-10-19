@@ -1,3 +1,7 @@
+/*
+Copyright (c) 2016. Kayo Martins Freitas
+ */
+
 package com.github.kayo08.aula06;
 
 /**
